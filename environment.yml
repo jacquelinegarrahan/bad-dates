@@ -1,0 +1,9 @@
+name: bad-dates
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - jupyterlab
+  - pandas
+  - matplotlib
